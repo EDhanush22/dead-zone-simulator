@@ -6,14 +6,6 @@ A Python simulation that predicts mobile network dead zones around the
 SRM Institute of Science and Technology, Kattankulathur campus area, and tests
 how tower placement changes coverage.
 
-## Team
-- K. Varshith Reddy (RA2311003010516)
-- E. Dhanush (RA2311003010520)
-- P. Mohit (RA2311003010522)
-
-Faculty: Dr. Sathyapriya Loganathan
-Department of Computing Technologies, SRM Institute of Science and Technology
-
 ## What it does
 - Places 4 approximate Jio 4G tower positions (2300 MHz) on a 100 x 100 grid
   (about 22 m per cell, covering roughly 2.2 km x 2.2 km)
